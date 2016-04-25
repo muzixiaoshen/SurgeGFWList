@@ -1,3 +1,2 @@
 # surge.conf
-#由GFWListPAC导入
-#每月末更新
+由GFWListPAC导入，每月末更新
